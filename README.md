@@ -3,6 +3,7 @@
 **Practical AI, security, and infrastructure for the African digital economy.**
 
 Founded by Koketso Raphasha. Built for Africa.
+[![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-22C55E?style=for-the-badge)](CONTRIBUTING.md)
 
 ---
 
