@@ -7,6 +7,18 @@ Founded by Koketso Raphasha. Built for Africa.
 
 ---
 
+## ?? Cybersecurity Labs
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [Network Port Scanner](https://github.com/Raphasha27/Network-Port-Scanner) | Multi-threaded port scanner with banner grabbing and logging | Active |
+| [Password Analyzer](https://github.com/Raphasha27/Password-Analyzer) | Entropy calculator, dictionary simulation, NIST scoring | Active |
+| [Password Hasher](https://github.com/Raphasha27/Password-Hasher) | bcrypt, Argon2, PBKDF2 comparison and security reporting | Active |
+| [Suspicious URL Checker](https://github.com/Raphasha27/Suspicious-URL-Checker) | Phishing URL detection with homograph analysis | Active |
+| [Phishing Awareness Game](https://github.com/Raphasha27/Phishing-Awareness-Game) | Gamified security awareness training platform | Active |
+| [DDoS Detection Simulator](https://github.com/Raphasha27/DDOS-Detection-Simulator) | Traffic simulation and real-time DDoS alert generation | Active |
+| [Insider Threat Detector](https://github.com/Raphasha27/Insider-Threat-Detector) | Behavioral analytics for insider threat simulation | Active |
+
 ## ?? Platforms
 
 | Project | Description | Status |
@@ -37,6 +49,19 @@ Founded by Koketso Raphasha. Built for Africa.
 |---------|-------------|-------|
 | [Afro Fashion Mobile](https://github.com/Raphasha27/afro_fashion_mobile) | Premium mobile commerce for the African digital economy | 8⭐ |
 | [KasiPass](https://github.com/Raphasha27/KasiPass) | Township digital identity and payment pass | 2⭐ |
+
+## ?? SA Innovation Ecosystem
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [AI-Business-Engine](https://github.com/Raphasha27/AI-Business-Engine) | Central AI orchestration for the SA innovation ecosystem | Active |
+| [Mzansi-AgriAI](https://github.com/Raphasha27/Mzansi-AgriAI) | Agricultural intelligence for SA farmers | Active |
+| [WaterWatch-SA](https://github.com/Raphasha27/WaterWatch-SA) | Water monitoring and conservation AI | Active |
+| [SA-Language-AI](https://github.com/Raphasha27/SA-Language-AI) | NLP for all 11 official SA languages | Active |
+| [YouthCode-ZA](https://github.com/Raphasha27/YouthCode-ZA) | Coding education for South African youth | Active |
+| [Townships-Market-AI](https://github.com/Raphasha27/Townships-Market-AI) | Marketplace intelligence for township economies | Active |
+| [EskomSense-AI](https://github.com/Raphasha27/EskomSense-AI) | Energy monitoring and load shedding prediction | Active |
+| [ZA Local AI Toolkit](https://github.com/Raphasha27/za-local-ai-toolkit) | Offline AI for SA schools, SMEs, and NGOs | Active |
 
 ## ?? Developer Tools
 
